@@ -1,0 +1,18 @@
+body {
+   font-family:arial,sans-serif;margin:0;padding:0;background-color:f4f4f4;}
+header {
+   background-color:#003366;color:white;padding:10px;}
+nav,footer {
+   background-color:#003366;color:white;padding:10px;text-align:center;}
+nav a {
+   color:white;margin:0 10px;text-decoration:none;font-weight:bold;
+main {
+   padding:20px}
+.staff-card {
+   border:1px solid #ccc;paddind:15px;margin-bottom:20px;width:250px;display:inline-block;}
+.gallery img {
+   width:300px;margin:15px; border-radius:8px}
+.faq h3 {
+   cursor:pointer; background:#003366; color:white; padding:10px; border-radius:5px}
+.faq .answer {
+   display:none; padding:10px; margin-bottom:15px; backgroung:#e6e6e6;}
